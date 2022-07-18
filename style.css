@@ -16,17 +16,21 @@ h1{
 grid-column:1;
 grid-row:1;
 }
-#one{
-    grid-column:1;
-    grid-row:2;
+p{
+    grid-column: 1;
+    grid-row: 2;
 }
-#two{
+#one{
     grid-column:1;
     grid-row:3;
 }
-#three{
+#two{
     grid-column:1;
     grid-row:4;
+}
+#three{
+    grid-column:1;
+    grid-row:5;
 }
 body{
     display:grid;
